@@ -1,9 +1,9 @@
 # s82_Match_My_Tone
 
-<h1>Match My Tone<h1>
+<h1>Match My Tone</h1>
 
 
-<h5>Project Overview<h5>
+<h5>Project Overview</h5>
 "Match My Tone" is a platform designed to help users find the perfect cosmetics tailored to their unique skin tone and type. With an intuitive interface, the website allows users to filter products based on their preferred brands and budget. Additionally, the platform uses AI to analyze a photo of the user’s face, providing personalized recommendations for the right shade. Users are also guided through a brief questionnaire to determine their skin type, ensuring that the cosmetics they select match both their complexion and skincare needs.
 
 <h5>Key Features<h5>
