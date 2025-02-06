@@ -13,7 +13,7 @@
 - **AI Shade Matching**: Upload a selfie, and let the system identify the ideal makeup shades for your skin tone.
 - **Skin Type Questionnaire**: Answer simple questions to identify your skin type and get product recommendations suited to your needs.
 
-## Tech Stack
+## Tech Stack ////
 
 - **Frontend**:
   - React
