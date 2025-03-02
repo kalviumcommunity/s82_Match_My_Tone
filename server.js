@@ -3,13 +3,13 @@ const mongoose=require('mongoose')
 require('dotenv').config()
 const cors =require('cors')
 const port =process.env.PORT || 5555
-const User= require('./schema')
+const User= require('./models/schema')
 const app=express()
 app.use(cors())// anyone can use
 app.use(express.json())
 
 const db= async()=>{
-    await mongoose.connect('mongodb+srv://shreemanvithajinnas82:root@cluster0.2hdes.mongodb.net/login?retryWrites=true&w=majority&appName=Cluster0')
+    await mongoose.connect(process.env.DB_URL)
     console.log("connected")
 }
 db()
@@ -18,8 +18,8 @@ app.get('/',async(req,res)=>{
 })
 app.post('/',async(req,res)=>{
     try{
-    const {name,age}=req.body
-const user = await User.create({name,age})
+    const {name,price}=req.body
+const user = await User.create({name,price})
 console.log(user)
 res.send(user)
     }
