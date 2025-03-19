@@ -2,10 +2,11 @@
   "name": "asap",
   "version": "1.0.0",
   "description": "<h1>Match My Tone</h1>",
-  "main": "server.js",
+  "main": "Backend/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "dev":"nodemon Backend/server.js"
   },
   "author": "",
   "license": "ISC",
