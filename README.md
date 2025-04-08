@@ -1,3 +1,4 @@
+
 # s82_Match_My_Tone
 
 <h1>Match My Tone</h1>
@@ -31,4 +32,5 @@ type. With an intuitive interface, the website allows users to filter products b
 ## Why This Project?
 
 Choosing the right cosmetics can be challenging, especially when skin types and tones vary so widely. Many consumers are influenced by top brands without considering their unique skin needs, often leading to ineffective or unsuitable products. This project aims to solve that problem by guiding users to select cosmetics that not only match their skin tone but also address their skin type and individual preferences. With "Match My Tone," users can confidently choose products that truly work for them, enhancing their overall beauty routine and helping them find the right cosmetic shades that match their skin tone.
+
 
