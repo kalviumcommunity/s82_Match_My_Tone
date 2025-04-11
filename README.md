@@ -1,4 +1,5 @@
 
+
 # s82_Match_My_Tone
 
 <h1>Match My Tone</h1>
@@ -18,7 +19,7 @@ type. With an intuitive interface, the website allows users to filter products b
 - **AI Shade Matching**: Upload a selfie, and let the system identify the ideal makeup shades for your skin tone.
 - **Skin Type Questionnaire**: Answer simple questions to identify your skin type and get product recommendations suited to your needs.
 
-## Tech Stack ////
+## Tech Stack 
 
 - **Frontend**:
   - React
